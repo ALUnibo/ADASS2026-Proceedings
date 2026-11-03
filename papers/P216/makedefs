@@ -2,6 +2,6 @@
 P = P216
 V = 1
 A = Luise
-E = you@example.edu
+E = alberto.luise@unibo.it
 # your figures, named P216_f1.eps, P216_f2.png, ...
 FIGS = $(filter-out P216_inc.tex,$(wildcard P216_*))
